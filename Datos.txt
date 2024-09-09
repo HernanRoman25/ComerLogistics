@@ -1,0 +1,39 @@
+cafedusriv@gmail.com
+danielafruiz@hotmail.com
+hernan2014@hotmail.com
+hernaroman25@gmail.com
+mfl201410@gmail.com
+
+
+
+datavisionstrategy@gmail.com
+clave mail 4815DVS$
+
+usuario git
+Dapt01G2-Henry
+clave git
+Dapt01G2
+
+SQL Servidor
+190.172.70.140,1433
+
+SQL Server
+Usuarios
+Carlos
+Marcelo
+Daniela
+Ruben
+Hernan
+
+Clave
+Dapt01
+
+Mails para PowerBI
+Clave es @Dapt01G2
+
+dussancarlos@ssyasociados.com.ar	
+fortidaniela@ssyasociados.com.ar
+lopezmarcelo@ssyasociados.com.ar
+paredruben@ssyasociados.com.ar
+romanhernan@ssyasociados.com.ar
+
